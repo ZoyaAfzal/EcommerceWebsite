@@ -19,12 +19,12 @@ const Navbar = () => {
                 <Link 
                 className='navbar__link relative'
                 href="#">
-                MEN'S
+                MEN
                 </Link>
                 <Link 
                 className='navbar__link relative'
                 href="#">
-                WOMEN'S
+                WOMEN
                 </Link>
                 <Link 
                 className='navbar__link relative'

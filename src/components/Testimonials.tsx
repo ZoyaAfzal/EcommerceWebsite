@@ -27,7 +27,7 @@ const Testimonials = () => {
                         height={40}     
                         />
                         <p className="max-w-[200px] text-gray-500">
-                            I like your products which are  so elegant and modern with the satisfying price. I have been a customer for over 6 months now, and they are just the best. So, don't hesitate to shop here.
+                            I like your products which are  so elegant and modern with the satisfying price. I have been a customer for over 6 months now, and they are just the best. So, do not hesitate to shop here.
                         </p>
                         </div>
                 </div>
